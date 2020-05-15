@@ -5,4 +5,5 @@ X1 Carbon 2015 EFI，使用OC引导，目前问题：
 
 希望大家能帮忙解答
 
-p.s 网卡已更换为BCM943224PCIEBT2，次EFI支持所有原生网卡
+p.s 网卡已更换为BCM943224PCIEBT2，此EFI支持所有原生网卡
+另：不知为何网卡在除macOS外的任何系统都搜不到Wi-Fi，包括win，Ubuntu等，求解答
